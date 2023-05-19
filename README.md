@@ -7,7 +7,7 @@
 
 - Future: [MOJO](MOJO)
 
-- 📄 Occupation: [COPENHAGEN BUSINESS ACADEMY](COPENHAGEN BUSINESS ACADEMY)
+- 📄 Occupation: [COPENHAGEN BUSINESS ACADEMY]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
