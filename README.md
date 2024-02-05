@@ -1,10 +1,6 @@
 <h1 align="center">SAND</h1>
 <h3 align="center">Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ss4nd&label=Profile%20views&color=0e75b6&style=flat" alt="ss4nd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ss4nd" alt="ss4nd" /></a> </p>
-
 - Future: [MOJO](MOJO)
 
 - 📄 Occupation: [COPENHAGEN BUSINESS ACADEMY]
